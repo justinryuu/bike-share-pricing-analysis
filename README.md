@@ -1,5 +1,7 @@
 # Optimizing Bike-Share Pricing in Toronto
-
+<p align="center">
+  <img src="images/banner.jpg" width="100%" height="100%">
+</p>
 # Introduction
 
 With every growing concern of climate change, many cities around the world are shifting their focus to
